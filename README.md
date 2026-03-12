@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" alt="Profile count" /> </p>
+<p align="right"> <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif" alt="Profile count" alt="Profile count" /> </p>
 
 <div align="center">
 
