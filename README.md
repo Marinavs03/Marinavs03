@@ -35,7 +35,7 @@
  * @param {string} jobTitle - Software Junior Developer.
  * @param {string} specialization - Building  web applications & multimedia applications .
  * @param {string} interests - AI, CyberSecurity & problem-solving.
- * @param {string} hobbies - Gym, reading, playing videogames & playing music.
+ * @param {string} hobbies - Gym, reading, playing videogames & listening to music.
  * @param {string} education - ITP Pablo de la Torre, Seville.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
